@@ -4,3 +4,14 @@
 abbr.name{
 	white-space: nowrap;
 }
+
+[epub|type~="z3998:letter"]{
+	margin-left: 0;
+	margin-right: 0;
+}
+
+
+[epub|type~="z3998:salutation"],
+.signature{
+	font-variant: small-caps;
+}
