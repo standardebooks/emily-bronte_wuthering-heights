@@ -68,7 +68,7 @@
 		<dc:creator id="author">Emily Brontë</dc:creator>
 		<meta property="file-as" refines="#author">Brontë, Emily</meta>
 		<meta property="se:name.person.full-name" refines="#author">Emily Jane Brontë</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Emily_Bronte</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Emily_Bront%C3%AB</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79018755</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">George Frederic Watts</dc:contributor>
