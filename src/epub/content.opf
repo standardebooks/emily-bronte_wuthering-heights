@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Wuthering Heights</dc:title>
 		<meta property="file-as" refines="#title">Wuthering Heights</meta>
 		<dc:subject id="subject-1">Revenge -- Fiction</dc:subject>
@@ -39,24 +39,32 @@
 		<dc:subject id="subject-8">Rural families -- Fiction</dc:subject>
 		<dc:subject id="subject-9">Heathcliff (Fictitious character : Brontë) -- Fiction</dc:subject>
 		<dc:subject id="subject-10">Triangles (Interpersonal relations) -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/768</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/768</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/768</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/768</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/768</meta>
-		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/768</meta>
-		<meta property="meta-auth" refines="#subject-7">https://www.gutenberg.org/ebooks/768</meta>
-		<meta property="meta-auth" refines="#subject-8">https://www.gutenberg.org/ebooks/768</meta>
-		<meta property="meta-auth" refines="#subject-9">https://www.gutenberg.org/ebooks/768</meta>
-		<meta property="meta-auth" refines="#subject-10">https://www.gutenberg.org/ebooks/768</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2008110358</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85108438</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008110390</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">Unknown</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh86004353</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2008114027</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">sh2008103470</meta>
+		<meta property="authority" refines="#subject-8">LCSH</meta>
+		<meta property="term" refines="#subject-8">sh2008110350</meta>
+		<meta property="authority" refines="#subject-9">LCSH</meta>
+		<meta property="term" refines="#subject-9">Unknown</meta>
+		<meta property="authority" refines="#subject-10">LCSH</meta>
+		<meta property="term" refines="#subject-10">sh2008112615</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">An adopted child ends up tearing apart families in a quest for power and revenge.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Returning from Liverpool, &lt;abbr&gt;Mr.&lt;/abbr&gt; Earnshaw brings with him a dirty, ragged, black-haired child called Heathcliff, and sets into motion a tale of destructive passions. The book’s two locations, the genteel Thrushcross Grange and the wild Wuthering Heights, serve as matching backgrounds to the characters of their occupants, as they struggle to gain the upper hand in marriage and power. All the while, the ghosts of the past seem to drive revenge more than inspire forgiveness.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Wuthering Heights&lt;/i&gt; was Emily Brontë’s sole published novel before her early death at the age of 30. Published under the pen name of Ellis Bell, a shared surname with the pen names of her sisters, many assumed that such a book could only have been written by a man. Reviewers of the time praised its emotional power but were also shocked at the actions of its characters, and most agreed that it was impossible to put down. After the novel’s original publication in 1847 it was revised into a single volume in 1850, and over time has become a classic of English literature. The story has been reworked into plays, operas, films, TV dramatisations and a ballet, and has inspired many further works of art, music and literature.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/768</dc:source>
 		<dc:source>https://archive.org/details/wutheringheight08brongoog</dc:source>
