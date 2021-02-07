@@ -63,6 +63,9 @@
 		<meta id="collection-1" property="belongs-to-collection">The Guardian’s best 100 novels in English (2015)</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">13</meta>
+		<meta id="collection-2" property="belongs-to-collection">The BBC’s 100 greatest British novels (2015)</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
+		<meta property="group-position" refines="#collection-2">7</meta>
 		<dc:description id="description">An adopted child ends up tearing apart families in a quest for power and revenge.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Returning from Liverpool, &lt;abbr&gt;Mr.&lt;/abbr&gt; Earnshaw brings with him a dirty, ragged, black-haired child called Heathcliff, and sets into motion a tale of destructive passions. The book’s two locations, the genteel Thrushcross Grange and the wild Wuthering Heights, serve as matching backgrounds to the characters of their occupants, as they struggle to gain the upper hand in marriage and power. All the while, the ghosts of the past seem to drive revenge more than inspire forgiveness.&lt;/p&gt;
