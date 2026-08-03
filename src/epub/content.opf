@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/emily-bronte/wuthering-heights</dc:identifier>
 		<dc:date>2018-07-18T22:49:37Z</dc:date>
@@ -73,11 +73,11 @@
 		<meta id="collection-4" property="belongs-to-collection">The Guardian’s 100 Greatest Novels of All Time (2003)</meta>
 		<meta property="collection-type" refines="#collection-4">set</meta>
 		<meta property="group-position" refines="#collection-4">17</meta>
-		<dc:description id="description">An adopted child ends up tearing apart families in a quest for power and revenge.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>An adopted child ends up tearing apart families in a quest for power and revenge.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Returning from Liverpool, &lt;abbr&gt;Mr.&lt;/abbr&gt; Earnshaw brings with him a dirty, ragged, black-haired child called Heathcliff, and sets into motion a tale of destructive passions. The book’s two locations, the genteel Thrushcross Grange and the wild Wuthering Heights, serve as matching backgrounds to the characters of their occupants, as they struggle to gain the upper hand in marriage and power. All the while, the ghosts of the past seem to drive revenge more than inspire forgiveness.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Wuthering Heights&lt;/i&gt; was &lt;a href="https://standardebooks.org/ebooks/emily-bronte"&gt;Emily Brontë’s&lt;/a&gt; sole published novel before her early death at the age of 30. Published under the pen name of Ellis Bell, a shared surname with the pen names of her sisters, many assumed that such a book could only have been written by a man. Reviewers of the time praised its emotional power but were also shocked at the actions of its characters, and most agreed that it was impossible to put down. After the novel’s original publication in 1847 it was revised into a single volume in 1850, and over time has become a classic of English literature. The story has been reworked into plays, operas, films, TV dramatisations and a ballet, and has inspired many further works of art, music and literature.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/768</dc:source>
 		<dc:source>https://archive.org/details/wutheringheights0000bron_x3t1</dc:source>
