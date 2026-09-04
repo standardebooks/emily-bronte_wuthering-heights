@@ -30,16 +30,16 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Wuthering Heights</dc:title>
 		<meta property="file-as" refines="#title">Wuthering Heights</meta>
-		<dc:subject id="subject-1">Revenge -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Revenge--Fiction</dc:subject>
 		<dc:subject id="subject-2">Psychological fiction</dc:subject>
-		<dc:subject id="subject-3">Rejection (Psychology) -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Rejection (Psychology)--Fiction</dc:subject>
 		<dc:subject id="subject-4">Love stories</dc:subject>
 		<dc:subject id="subject-5">Domestic fiction</dc:subject>
-		<dc:subject id="subject-6">Yorkshire (England) -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Foundlings -- Fiction</dc:subject>
-		<dc:subject id="subject-8">Rural families -- Fiction</dc:subject>
-		<dc:subject id="subject-9">Heathcliff (Fictitious character : Brontë) -- Fiction</dc:subject>
-		<dc:subject id="subject-10">Triangles (Interpersonal relations) -- Fiction</dc:subject>
+		<dc:subject id="subject-6">Yorkshire (England)--Fiction</dc:subject>
+		<dc:subject id="subject-7">Foundlings--Fiction</dc:subject>
+		<dc:subject id="subject-8">Rural families--Fiction</dc:subject>
+		<dc:subject id="subject-9">Heathcliff (Fictitious character : Brontë)--Fiction</dc:subject>
+		<dc:subject id="subject-10">Triangles (Interpersonal relations)--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008110358</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
