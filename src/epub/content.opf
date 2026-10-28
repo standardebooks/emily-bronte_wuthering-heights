@@ -81,7 +81,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/768</dc:source>
 		<dc:source>https://archive.org/details/wutheringheights0000bron_x3t1</dc:source>
-		<meta property="schema:wordCount">116440</meta>
+		<meta property="schema:wordCount">116443</meta>
 		<meta property="schema:educationalLevel">70.33</meta>
 		<link href="https://en.wikipedia.org/wiki/Wuthering_Heights" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
